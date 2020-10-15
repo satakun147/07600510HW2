@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">07600442</string>
+    <string name="count">Count Down To Election Day</string>
+    <string name="d">Days</string>
+    <string name="h">Hours</string>
+    <string name="m">minutes</string>
+    <string name="s">seconds</string>
+    <string name="next">NEXT</string>
+    <string name="ecot1">ELECTION COMMISSION OF THAILAND</string>
+    <string name="ecot">สำนักงานคณะกรรมการการเลือกตั้ง</string>
+    <string name="d365">365</string>
+    <string name="h24">60</string>
+    <string name="m60">60</string>
+    <string name="s60">60</string>
+    <string name="todo">" "</string>
+</resources>

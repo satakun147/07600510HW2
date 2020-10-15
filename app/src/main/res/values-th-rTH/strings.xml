@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">07600442</string>
+    <string name="d">วัน</string>
+    <string name="h">ชั่วโมง</string>
+    <string name="m">นาที</string>
+    <string name="s">วินาที</string>
+    <string name="next">ถัดไป</string>
+    <string name="count">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="ecot1">ELECTION COMMISSION OF THAILAND</string>
+    <string name="ecot">สำนักงานคณะกรรมการการเลือกตั้ง</string>
+    <string name="d365">365</string>
+    <string name="h24">60</string>
+    <string name="m60">60</string>
+    <string name="s60">24</string>
+    <string name="todo">" "</string>
+</resources>
